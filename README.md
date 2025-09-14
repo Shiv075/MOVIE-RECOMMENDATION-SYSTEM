@@ -1,6 +1,7 @@
 ﻿# movie-recommender
 
 
-[Car Price Prediction App](https://movie-recommendation-system-c8jdkhmrnhx2icjlq3wfju.streamlit.app/)
+[Movie Recommendation System](https://movie-recommendation-system-c8jdkhmrnhx2icjlq3wfju.streamlit.app/)
+
 
 
